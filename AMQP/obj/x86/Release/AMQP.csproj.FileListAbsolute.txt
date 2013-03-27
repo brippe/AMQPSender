@@ -1,0 +1,7 @@
+c:\users\brippe\documents\visual studio 2010\projects\AMQP\AMQP\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\brippe\documents\visual studio 2010\projects\AMQP\AMQP\bin\Release\AMQP.dll.config
+c:\users\brippe\documents\visual studio 2010\projects\AMQP\AMQP\bin\Release\AMQP.dll
+c:\users\brippe\documents\visual studio 2010\projects\AMQP\AMQP\bin\Release\AMQP.pdb
+c:\users\brippe\documents\visual studio 2010\projects\AMQP\AMQP\bin\Release\RabbitMQ.Client.dll
+c:\users\brippe\documents\visual studio 2010\projects\AMQP\AMQP\obj\x86\Release\AMQP.dll
+c:\users\brippe\documents\visual studio 2010\projects\AMQP\AMQP\obj\x86\Release\AMQP.pdb

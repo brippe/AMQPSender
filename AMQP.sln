@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMQP", "AMQP\AMQP.csproj", "{6BBF84F6-E620-4428-9E61-B241181E6E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AMQP 64|x64 = AMQP 64|x64
+		AMQP 64|x86 = AMQP 64|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		x64|x64 = x64|x64
+		x64|x86 = x64|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.AMQP 64|x64.ActiveCfg = Release|x64
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.AMQP 64|x64.Build.0 = Release|x64
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.AMQP 64|x86.ActiveCfg = Release|x64
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.Debug|x64.ActiveCfg = Debug|x86
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.Debug|x86.ActiveCfg = Debug|x86
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.Debug|x86.Build.0 = Debug|x86
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.Release|x64.ActiveCfg = Release|x86
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.Release|x86.ActiveCfg = Release|x86
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.Release|x86.Build.0 = Release|x86
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.x64|x64.ActiveCfg = x64|x64
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.x64|x64.Build.0 = x64|x64
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.x64|x86.ActiveCfg = x64|x86
+		{6BBF84F6-E620-4428-9E61-B241181E6E79}.x64|x86.Build.0 = x64|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
