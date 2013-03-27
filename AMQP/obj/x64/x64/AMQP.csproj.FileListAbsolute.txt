@@ -1,7 +1,0 @@
-C:\Users\brippe\Documents\Visual Studio 2010\Projects\AMQP\AMQP\bin\x64\AMQP.dll.config
-C:\Users\brippe\Documents\Visual Studio 2010\Projects\AMQP\AMQP\bin\x64\AMQP.dll
-C:\Users\brippe\Documents\Visual Studio 2010\Projects\AMQP\AMQP\bin\x64\AMQP.pdb
-C:\Users\brippe\Documents\Visual Studio 2010\Projects\AMQP\AMQP\bin\x64\RabbitMQ.Client.dll
-C:\Users\brippe\Documents\Visual Studio 2010\Projects\AMQP\AMQP\obj\x64\x64\ResolveAssemblyReference.cache
-C:\Users\brippe\Documents\Visual Studio 2010\Projects\AMQP\AMQP\obj\x64\x64\AMQP.dll
-C:\Users\brippe\Documents\Visual Studio 2010\Projects\AMQP\AMQP\obj\x64\x64\AMQP.pdb
